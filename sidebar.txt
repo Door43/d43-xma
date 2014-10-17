@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xma:home|Door43 (xma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xma|d43-xma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xma/archive/master.zip|d43-xma.zip]]
+
+**Recent Changes**
+{{changes>ns = xma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xma|Ethnologue data]]
+
